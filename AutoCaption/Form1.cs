@@ -93,7 +93,7 @@ namespace AutoCaption
             Choices Words = new Choices();
             //use these words 
             NetSpell.SpellChecker.Dictionary.WordDictionary oDict = new NetSpell.SpellChecker.Dictionary.WordDictionary();
-            oDict.DictionaryFolder = @"D:\Git\hecking jm\LiveStream-AutoCaption\packages\NetSpell.2.1.7\dic";
+            oDict.DictionaryFolder = @"packages\NetSpell.2.1.7\dic";
             oDict.DictionaryFile = "en-CA.dic";
             //oDict.DictionaryFile = "en-US.dic";
              oDict.Initialize();
