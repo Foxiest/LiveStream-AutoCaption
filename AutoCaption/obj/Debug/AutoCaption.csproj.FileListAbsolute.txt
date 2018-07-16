@@ -32,3 +32,39 @@ C:\Users\james\source\repos\AutoCaption\AutoCaption\bin\Debug\Microsoft.Bing.Spe
 C:\Users\james\source\repos\AutoCaption\AutoCaption\bin\Debug\Microsoft.VisualStudio.Threading.xml
 C:\Users\james\source\repos\AutoCaption\AutoCaption\bin\Debug\Microsoft.VisualStudio.Validation.xml
 C:\Users\james\source\repos\AutoCaption\AutoCaption\bin\Debug\Newtonsoft.Json.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\AutoCaption.exe.config
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\AutoCaption.exe
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\AutoCaption.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.Attributes.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.IO.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.JSON.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.Reflection.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.Bing.Messaging.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.Bing.Speech.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Newtonsoft.Json.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.Attributes.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.Attributes.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.IO.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.IO.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.JSON.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.JSON.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.Reflection.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Bond.Reflection.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.Bing.Speech.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\Newtonsoft.Json.xml
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.csprojResolveAssemblyReference.cache
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.AutoCaption.resources
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.Properties.Resources.resources
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.csproj.GenerateResource.Cache
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.csproj.CoreCompileInputs.cache
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.exe
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\obj\Debug\AutoCaption.pdb
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\NetSpell.SpellChecker.dll
+D:\Git\hecking jm\LiveStream-AutoCaption\AutoCaption\bin\Debug\NetSpell.SpellChecker.xml

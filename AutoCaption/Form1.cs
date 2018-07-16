@@ -6,6 +6,7 @@ using System.Threading;
 using System.IO;
 using System.ComponentModel;
 using System.Threading.Tasks;
+using System.Collections;
 
 namespace AutoCaption
 {
@@ -78,6 +79,7 @@ namespace AutoCaption
         private void DoRecognise()
         {
             var sre = InitiliseSRE();
+            sre.BabbleTimeout = System.TimeSpan.FromMilliseconds(10);
             sre.RecognizeAsync(RecognizeMode.Multiple);
         }
 
@@ -90,12 +92,22 @@ namespace AutoCaption
             sre.SetInputToDefaultAudioDevice();
             Choices Words = new Choices();
             //use these words 
-            Words.Add(new string[] { "Test", "Coffee", "blue", "Stream", "Siege","game","do anything","Chicken Nuggets" });
+            NetSpell.SpellChecker.Dictionary.WordDictionary oDict = new NetSpell.SpellChecker.Dictionary.WordDictionary();
+            oDict.DictionaryFolder = @"D:\Git\hecking jm\LiveStream-AutoCaption\packages\NetSpell.2.1.7\dic";
+            oDict.DictionaryFile = "en-CA.dic";
+            //oDict.DictionaryFile = "en-US.dic";
+             oDict.Initialize();
+            foreach (DictionaryEntry x in oDict.BaseWords)
+            {
+                Words.Add((string)x.Key);
+            }
+            //Words.Add(new string[] { "Test", "Coffee", "blue", "Stream", "Siege","game","do anything","Chicken Nuggets" });
             GrammarBuilder gb = new GrammarBuilder();
             gb.Append(Words);
             gb.Culture = Thread.CurrentThread.CurrentCulture;
             Grammar g = new Grammar(gb);
             sre.LoadGrammar(g);
+            
             sre.SpeechRecognized += Sre_SpeechRecognized;
             return sre;
         }
